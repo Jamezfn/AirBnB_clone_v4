@@ -102,12 +102,12 @@ button:hover {
     visibility: visible;
 }
 
-.popover ul li {
+/* .popover ul li {
   display: flex;
-  align-items: center;      /* vertically center the box + text */
-  padding: 4px 0 4px 10px;   /* keep your existing padding tweaks */
+  align-items: center;      
+  padding: 4px 0 4px 10px;   
 }
 
 .popover ul li input[type="checkbox"] {
-  margin-right: 0.5rem;     /* space between the box and the label */
-}
+  margin-right: 0.5rem;    
+} */
